@@ -1,4 +1,4 @@
-# Styled components starter pack 
+# Zen Styled components
 
 Dependencies
 + styled-components 
